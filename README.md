@@ -1,2 +1,0 @@
-# DeseretBooksChallenge
-Created with CodeSandbox
